@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ssb-libtest9"
-version = "0.0.0"
+version = "0.0.1"
 description = "SSB Libtest9"
 authors = ["Eirik Fredborg <efr@ssb.no>"]
 license = "MIT"
